@@ -1,7 +1,7 @@
 # 🍽️ Recipe Reviews Sentiment Analysis (Data Science with Machine Learning Project)
 
 ## 📌 Project Overview
-This project performs **sentiment analysis on recipe reviews** using machine learning and natural language processing (NLP). User reviews are classified into **positive, neutral, or negative** sentiment based on review text and star ratings.
+This project performs **sentiment analysis on recipe reviews** using machine learning and natural language processing (NLP). User reviews are classified into **positive, neutral, or negative** sentiment based on review text and star ratings.The dataset I got from here: https://archive.ics.uci.edu/ . It is a **classification dataset** containing user reviews, ratings, and recipe information.
 
 The project demonstrates an **end‑to‑end machine learning pipeline**, including data cleaning, feature engineering, AutoML, and hyperparameter optimization.
 
